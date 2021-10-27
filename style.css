@@ -1,0 +1,26 @@
+#block{
+	display: flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 570px;
+	
+
+}
+#one,#two{
+	margin: 20px;
+	background-color: darkblue;
+}
+
+#one{
+	height: 150px;
+	width: 150px;
+}
+
+#two{
+	height: 300px;
+	width: 150px;
+}
+
+ul{
+	list-style-image: url(book.png);
+}
